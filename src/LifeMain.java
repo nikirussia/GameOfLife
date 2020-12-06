@@ -10,7 +10,6 @@ public class LifeMain {
 
     final String NAME_OF_GAME = "Conway's Game of Life";
     final int START_LOCATION = 200;
-    //final int MAX_SIZE = 600;
     final int LIFE_SIZE = 50;
     final int POINT_RADIUS = 10;
     final int FIELD_SIZE = (LIFE_SIZE + 1) * POINT_RADIUS - 3;
